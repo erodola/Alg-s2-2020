@@ -28,13 +28,12 @@ Specific material in the form of scientific articles and book chapters will be g
 
 ### Grading
 
-Project + oral examination.
+Mid-term + final written exams.
 
-The project must follow one of these formats:
+Optionally:
 
-- survey on a topic
-- reproduction of a scientific article + your own extra contribution
-- original contribution
+- Oral examination to improve/worsen your grade
+- Homework
 
 ### Lectures
 
