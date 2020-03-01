@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Algorithms
 
-You can use the [editor on GitHub](https://github.com/erodola/Alg-s2-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Course material; Bachelor's degree in Bioinformatics
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### News
 
-### Markdown
+- **03/03/2020:** Lessons start!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Logistics
 
-```markdown
-Syntax highlighted code block
+**Lecturer:** Prof. Emanuele Rodolà
 
-# Header 1
-## Header 2
-### Header 3
+**When:** Tuesdays 10:00--12:00 and Thursdays 10:00--13:00 ([official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
 
-- Bulleted
-- List
+**Where:** Aula Alfa, via Salaria 113
 
-1. Numbered
-2. List
+**Office Hours:** By appointment, contact Prof. Rodolà
 
-**Bold** and _Italic_ and `Code` text
+### Pre-requisites
 
-[Link](url) and ![Image](src)
-```
+Programming fundamentals in **Python**; calculus; linear algebra.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Textbook and reading material
 
-### Jekyll Themes
+Due to the ever-evolving nature of the topic, there is no fixed textbook as a reference. Specific material in the form of scientific articles and book chapters will be given throughout the lectures.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erodola/Alg-s2-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Grading
 
-### Support or Contact
+Project + oral examination.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The project must follow one of these formats:
+
+- survey on a topic
+- reproduction of a scientific article + your own extra contribution
+- original contribution
+
+### Lectures
+
+**Date** | **Topic** | **Reading** | **Code & Data**
+------------ | ------------- | ------------ | ------------
+| | |
+Mon 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/01_intro/01-intro.pdf) | 
+| | |
+Wed 26 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/02_data/02-data.pdf) |
+| | |
+Mon 02 Mar | Recap of linear algebra | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/03_linalg/03-linalg.pdf) |
+| | |
