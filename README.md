@@ -10,19 +10,21 @@ Course material; Bachelor's degree in Bioinformatics
 
 **Lecturer:** Prof. Emanuele Rodolà
 
-**When:** Tuesdays 10:00--12:00 and Thursdays 10:00--13:00 ([official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
+**When:** Tuesdays 10:00--12:00 and Thursdays 10:00--13:00
 
-**Where:** Aula Alfa, via Salaria 113
+**Where:** Classroom Psicologia II
 
 **Office Hours:** By appointment, contact Prof. Rodolà
 
 ### Pre-requisites
 
-Programming fundamentals in **Python**; calculus; linear algebra.
+Formally: None. 
+
+Welcome: Programming fundamentals.
 
 ### Textbook and reading material
 
-Due to the ever-evolving nature of the topic, there is no fixed textbook as a reference. Specific material in the form of scientific articles and book chapters will be given throughout the lectures.
+Specific material in the form of scientific articles and book chapters will be given throughout the lectures.
 
 ### Grading
 
@@ -39,9 +41,5 @@ The project must follow one of these formats:
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
 | | |
-Mon 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/01_intro/01-intro.pdf) | 
-| | |
-Wed 26 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/02_data/02-data.pdf) |
-| | |
-Mon 02 Mar | Recap of linear algebra | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/03_linalg/03-linalg.pdf) |
+Tue 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/01_intro/01-intro.pdf) | 
 | | |
