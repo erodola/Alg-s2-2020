@@ -22,7 +22,7 @@ Formally: None.
 
 Welcome: Programming fundamentals.
 
-### Textbook and reading material
+### Reading material
 
 Specific material in the form of scientific articles and book chapters will be given throughout the lectures.
 
