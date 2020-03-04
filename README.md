@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **03/03/2020:** Lessons start!
+- **04/03/2020:** **Lectures are cancelled until March 15**. Please keep checking this page for information on how we will proceed in these 10 days.
 
 ### Logistics
 
