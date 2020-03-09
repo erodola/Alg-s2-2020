@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **04/03/2020:** **Lectures are cancelled until March 15**. Please keep checking this page for information on how we will proceed in these 10 days.
+- **09/03/2020:** Until further notice, all lectures will be pre-recorded by me and available here for **download/streaming**. All questions on the lecture topics will be answered via email. The first recorded lecture will be available by tomorrow morning at the latest.
 
 ### Logistics
 
@@ -41,4 +41,6 @@ Optionally:
 ------------ | ------------- | ------------ | ------------
 | | |
 Tue 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/01_intro/01-intro.pdf) | 
+| | |
+Tue 10 Mar |  |  | 
 | | |
