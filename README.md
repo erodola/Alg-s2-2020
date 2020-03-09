@@ -4,7 +4,9 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **09/03/2020:** Until further notice, all lectures will be pre-recorded by me and available here for **download/streaming**. All questions on the lecture topics will be answered via email. The first recorded lecture will be available by tomorrow morning at the latest.
+- **09/03/2020:** The recorded lecture for March 10th is now online.
+
+- **09/03/2020:** Until further notice, all lectures will be pre-recorded by me and available here for **download/streaming**. All questions on the lecture topics will be answered via email.
 
 ### Logistics
 
@@ -42,5 +44,7 @@ Optionally:
 | | |
 Tue 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/01_intro/01-intro.pdf) | 
 | | |
-Tue 10 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/02_sort/02-sort.pdf) ; [video - to come] | 
+Tue 10 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/02_sort/02-sort.pdf) ; [video](https://www.youtube.com/watch?v=cTkeurumKrw) | 
+| | |
+Thu 12 Mar |  |  | 
 | | |
