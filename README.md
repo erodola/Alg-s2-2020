@@ -42,5 +42,5 @@ Optionally:
 | | |
 Tue 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/01_intro/01-intro.pdf) | 
 | | |
-Tue 10 Mar |  |  | 
+Tue 10 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/02_sort/02-sort.pdf) ; [video - to come] | 
 | | |
