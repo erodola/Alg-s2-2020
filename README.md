@@ -46,5 +46,7 @@ Tue 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2020/raw/
 | | |
 Tue 10 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/02_sort/02-sort.pdf) ; [video](https://www.youtube.com/watch?v=cTkeurumKrw) | 
 | | |
-Thu 12 Mar |  |  | 
+Thu 12 Mar | Divide et impera | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/03_divide/03-divide.pdf) ; [video - to come] | 
+| | |
+Tue 17 Mar |  |  | 
 | | |
