@@ -48,5 +48,5 @@ Tue 10 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2020/ra
 | | |
 Thu 12 Mar | Divide et impera | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/03_divide/03-divide.pdf) ; [video](https://www.youtube.com/watch?v=i8l6wN4uaJ8) | 
 | | |
-Tue 17 Mar | Growth of functions | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/04_growth/04-growth.pdf) ; [video - to come] | 
+Tue 17 Mar | Growth of functions | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/04_growth/04-growth.pdf) ; [video](https://www.youtube.com/watch?v=xzm26NJKwzE) | 
 | | |
