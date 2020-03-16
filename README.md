@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **11/03/2020:** The recorded lecture for March 12th is now online. **Please let me know if you are accessing the videos correctly**, some issues were reported with video quality on some browsers.
+- **16/03/2020:** The recorded lecture for March 17th is now online. Note that you can **turn on the subtitles** in Youtube to get a decent script, if you think you need it.
 
 - **09/03/2020:** Until further notice, all lectures will be pre-recorded by me and available here for **download/streaming**. All questions on the lecture topics will be answered via email.
 
@@ -48,5 +48,5 @@ Tue 10 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2020/ra
 | | |
 Thu 12 Mar | Divide et impera | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/03_divide/03-divide.pdf) ; [video](https://www.youtube.com/watch?v=i8l6wN4uaJ8) | 
 | | |
-Tue 17 Mar |  |  | 
+Tue 17 Mar | Growth of functions | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/04_growth/04-growth.pdf) ; [video - to come] | 
 | | |
