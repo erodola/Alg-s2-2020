@@ -4,9 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **17/03/2020:** **Exercise solutions** are now online together with a video explaining the solutions step by step.
-
-- **16/03/2020:** The recorded lecture for March 17th is now online. Note that you can **turn on the subtitles** in Youtube to get a decent script, if you think you need it. All questions on the lecture topics will be answered via email.
+- **19/03/2020:** The recorded lecture for March 19th is now online. Note that you can **turn on the subtitles** in Youtube to get a decent script, if you think you need it. All questions on the lecture topics will be answered via email.
 
 ### Logistics
 
@@ -50,5 +48,5 @@ Thu 12 Mar | Divide et impera | [slides](https://github.com/erodola/Alg-s2-2020/
 | | |
 Tue 17 Mar | Growth of functions | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/04_growth/04-growth.pdf) ; [video](https://www.youtube.com/watch?v=xzm26NJKwzE) | [exercises 1-5](https://github.com/erodola/Alg-s2-2020/raw/master/04_growth/ex1-5.zip) ; [python docs](https://docs.python.org/3/) ; [video](https://www.youtube.com/watch?v=UPgw7np3YhY)
 | | |
-Thu 19 Mar | Recursion I | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/05_recur1/05-recur1.pdf) ; [video - uploading] | 
+Thu 19 Mar | Recursion I | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/05_recur1/05-recur1.pdf) ; [video](https://www.youtube.com/watch?v=X2b2-V1LM8A) | 
 | | |
