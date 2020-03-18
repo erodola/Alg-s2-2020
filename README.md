@@ -50,3 +50,5 @@ Thu 12 Mar | Divide et impera | [slides](https://github.com/erodola/Alg-s2-2020/
 | | |
 Tue 17 Mar | Growth of functions | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/04_growth/04-growth.pdf) ; [video](https://www.youtube.com/watch?v=xzm26NJKwzE) | [exercises 1-5](https://github.com/erodola/Alg-s2-2020/raw/master/04_growth/ex1-5.zip) ; [python docs](https://docs.python.org/3/) ; [video](https://www.youtube.com/watch?v=UPgw7np3YhY)
 | | |
+Thu 19 Mar | Recursion I | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/05_recur1/05-recur1.pdf) ; [video - uploading] | 
+| | |
