@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **19/03/2020:** The recorded lecture for March 19th is now online. Note that you can **turn on the subtitles** in Youtube to get a decent script, if you think you need it. All questions on the lecture topics will be answered via email.
+- **23/03/2020:** The recorded lecture for March 24th is now online. Note that you can **turn on the subtitles** in Youtube to get a decent script, if you think you need it. All questions on the lecture topics will be answered via email.
 
 ### Logistics
 
@@ -50,5 +50,5 @@ Tue 17 Mar | Growth of functions | [slides](https://github.com/erodola/Alg-s2-20
 | | |
 Thu 19 Mar | Recursion I | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/05_recur1/05-recur1.pdf) ; [video](https://www.youtube.com/watch?v=X2b2-V1LM8A) | 
 | | |
-Tue 24 Mar | Recursion II | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/06_recur2/06-recur2.pdf) ; [video - to come] | 
+Tue 24 Mar | Recursion II | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/06_recur2/06-recur2.pdf) ; [video](https://www.youtube.com/watch?v=WTrCjeswvnk) | 
 | | |
