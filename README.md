@@ -50,5 +50,5 @@ Tue 17 Mar | Growth of functions | [slides](https://github.com/erodola/Alg-s2-20
 | | |
 Thu 19 Mar | Recursion I | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/05_recur1/05-recur1.pdf) ; [video](https://www.youtube.com/watch?v=X2b2-V1LM8A) | 
 | | |
-Tue 24 Mar | Recursion II | [slides - to come] ; [video - to come] | 
+Tue 24 Mar | Recursion II | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/06_recur2/06-recur2.pdf) ; [video - to come] | 
 | | |
