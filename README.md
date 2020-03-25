@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **23/03/2020:** The recorded lecture for March 24th is now online. Note that you can **turn on the subtitles** in Youtube to get a decent script, if you think you need it. All questions on the lecture topics will be answered via email.
+- **25/03/2020:** The recorded lecture for March 26th is now online. Note that you can turn on the subtitles in Youtube to get a decent script, if you think you need it. All questions on the lecture topics will be answered via email.
 
 ### Logistics
 
@@ -52,5 +52,5 @@ Thu 19 Mar | Recursion I | [slides](https://github.com/erodola/Alg-s2-2020/raw/m
 | | |
 Tue 24 Mar | Recursion II | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/06_recur2/06-recur2.pdf) ; [video](https://www.youtube.com/watch?v=WTrCjeswvnk) | 
 | | |
-Thu 26 Mar | Heaps and priority queues | [slides - uploading] ; [video - uploading] | 
+Thu 26 Mar | Heaps and priority queues | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/07_heap/07-heap.pdf) ; [video](https://www.youtube.com/watch?v=Q75KRgj6sMo) | 
 | | |
