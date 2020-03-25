@@ -52,3 +52,5 @@ Thu 19 Mar | Recursion I | [slides](https://github.com/erodola/Alg-s2-2020/raw/m
 | | |
 Tue 24 Mar | Recursion II | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/06_recur2/06-recur2.pdf) ; [video](https://www.youtube.com/watch?v=WTrCjeswvnk) | 
 | | |
+Thu 26 Mar | Heaps and priority queues | [slides - uploading] ; [video - uploading] | 
+| | |
