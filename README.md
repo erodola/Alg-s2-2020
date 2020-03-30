@@ -54,3 +54,5 @@ Tue 24 Mar | Recursion II | [slides](https://github.com/erodola/Alg-s2-2020/raw/
 | | |
 Thu 26 Mar | Heaps and priority queues | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/07_heap/07-heap.pdf) ; [video](https://www.youtube.com/watch?v=Q75KRgj6sMo) | 
 | | |
+Tue 31 Mar | Stacks, queues, and linked lists | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/08_stack/08-stack.pdf) ; [video](https://www.youtube.com/watch?v=amirgeWSPR0) | 
+| | |
