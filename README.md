@@ -56,3 +56,5 @@ Thu 26 Mar | Heaps and priority queues | [slides](https://github.com/erodola/Alg
 | | |
 Tue 31 Mar | Stacks, queues, and linked lists | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/08_stack/08-stack.pdf) ; [video](https://www.youtube.com/watch?v=amirgeWSPR0) | 
 | | |
+Thu 02 Apr | Graphs, breadth- and depth-first search | [slides - coming up] ; [video - coming up] | 
+| | |
