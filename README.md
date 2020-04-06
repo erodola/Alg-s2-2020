@@ -58,3 +58,5 @@ Tue 31 Mar | Stacks, queues, and linked lists | [slides](https://github.com/erod
 | | |
 Thu 02 Apr | Graphs, breadth- and depth-first search | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/09_graphs/09-graphs.pdf) ; [video](https://www.youtube.com/watch?v=Le1AmPm7wXA) | 
 | | |
+Tue 07 Apr | Code: Data structures | [video - upcoming] | [code - upcoming]
+| | |
