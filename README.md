@@ -60,3 +60,5 @@ Thu 02 Apr | Graphs, breadth- and depth-first search | [slides](https://github.c
 | | |
 Tue 07 Apr | Code: Data structures | [video](https://www.youtube.com/watch?v=6HQsXSWgLC8) | [code](https://github.com/erodola/Alg-s2-2020/raw/master/08_stack/ex.zip)
 | | |
+Thu 16 Apr |  |  | 
+| | |
