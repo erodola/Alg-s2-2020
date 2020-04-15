@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **06/04/2020:** The recorded lecture for April 7th is now online. **The next lecture will be on Thu 16 April.** Note that you can turn on the subtitles in Youtube to get a decent script, if you think you need it. All questions on the lecture topics will be answered via email.
+- **15/04/2020:** The recorded lecture for April 16th is now online. **Next week is midterm exam week; more news will follow.** Note that you can turn on the subtitles in Youtube to get a decent script, if you think you need it. All questions on the lecture topics will be answered via email.
 
 ### Logistics
 
@@ -60,5 +60,5 @@ Thu 02 Apr | Graphs, breadth- and depth-first search | [slides](https://github.c
 | | |
 Tue 07 Apr | Code: Data structures |  | [code](https://github.com/erodola/Alg-s2-2020/raw/master/08_stack/ex.zip) ; [video](https://www.youtube.com/watch?v=6HQsXSWgLC8)
 | | |
-Thu 16 Apr | Shortest paths | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/10_paths/10-paths.pdf) ; [video](https://www.youtube.com/watch?v=jyJGof3znP0) | 
+Thu 16 Apr | Shortest paths | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/10_paths/10-paths.pdf) ; [video](https://www.youtube.com/watch?v=jyJGof3znP0) | [demo video - upcoming]
 | | |
