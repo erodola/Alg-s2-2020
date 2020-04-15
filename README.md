@@ -60,5 +60,5 @@ Thu 02 Apr | Graphs, breadth- and depth-first search | [slides](https://github.c
 | | |
 Tue 07 Apr | Code: Data structures |  | [code](https://github.com/erodola/Alg-s2-2020/raw/master/08_stack/ex.zip) ; [video](https://www.youtube.com/watch?v=6HQsXSWgLC8)
 | | |
-Thu 16 Apr | Shortest paths | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/10_paths/10-paths.pdf) ; [video](https://www.youtube.com/watch?v=jyJGof3znP0) | [demo video - upcoming]
+Thu 16 Apr | Shortest paths | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/10_paths/10-paths.pdf) ; [video](https://www.youtube.com/watch?v=jyJGof3znP0) | [demo video](https://www.youtube.com/watch?v=8mwJYCf70wk)
 | | |
