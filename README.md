@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **15/04/2020:** The recorded lecture for April 16th is now online. **Next week is midterm exam week; more news will follow.** Note that you can turn on the subtitles in Youtube to get a decent script, if you think you need it. All questions on the lecture topics will be answered via email.
+- **20/04/2020:** The **midterm self-evaluation test** is now available for download. Please send me your solutions by the end of the week. The solutions will be discussed on Thu 23 April, but you can still send me your solutions after that date. The next theoretical lecture will be on **Thu 30 April** (no lecture on Tue 28 April).
 
 ### Logistics
 
@@ -61,4 +61,6 @@ Thu 02 Apr | Graphs, breadth- and depth-first search | [slides](https://github.c
 Tue 07 Apr | Code: Data structures |  | [code](https://github.com/erodola/Alg-s2-2020/raw/master/08_stack/ex.zip) ; [video](https://www.youtube.com/watch?v=6HQsXSWgLC8)
 | | |
 Thu 16 Apr | Shortest paths | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/10_paths/10-paths.pdf) ; [video](https://www.youtube.com/watch?v=jyJGof3znP0) | [demo video](https://www.youtube.com/watch?v=8mwJYCf70wk)
+| | |
+Tue 21 Apr | **Midterm self-evaluation** | [test](https://github.com/erodola/Alg-s2-2020/raw/master/midterm/sheet.pdf) | 
 | | |
