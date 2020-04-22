@@ -64,3 +64,5 @@ Thu 16 Apr | Shortest paths | [slides](https://github.com/erodola/Alg-s2-2020/ra
 | | |
 Tue 21 Apr | **Midterm self-evaluation** | [test](https://github.com/erodola/Alg-s2-2020/raw/master/midterm/sheet.pdf) | 
 | | |
+Thu 23 Apr | | | 
+| | |
