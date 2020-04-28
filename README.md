@@ -68,5 +68,5 @@ Tue 21 Apr | **Midterm self-evaluation** | [test](https://github.com/erodola/Alg
 | | |
 Thu 23 Apr | Self-evaluation solutions | [solutions](https://github.com/erodola/Alg-s2-2020/raw/master/midterm/solutions.pdf) ; [video](https://youtu.be/EieNzgmqWwE) | 
 | | |
-Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video - to come] | [video - to come] ; [data - to come]
+Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video](https://www.youtube.com/watch?v=nsvDGVHKJq0) | [video - to come] ; [data - to come]
 | | |
