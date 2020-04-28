@@ -6,7 +6,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 - **22/04/2020:** The self-evaluation solutions are now available.
 
-- **20/04/2020:** The **midterm self-evaluation test** is now available for download. Please send me your solutions by the end of the week. The solutions will be discussed on Thu 23 April, but you can still send me your solutions after that date. The next theoretical lecture will be on **Thu 30 April** (no lecture on Tue 28 April).
+- **20/04/2020:** The **midterm self-evaluation test** is now available for download. Please send me your solutions by the end of the week. The solutions will be discussed on Thu 23 April, but you can still send me your solutions after that date.
 
 ### Logistics
 
@@ -68,5 +68,5 @@ Tue 21 Apr | **Midterm self-evaluation** | [test](https://github.com/erodola/Alg
 | | |
 Thu 23 Apr | Self-evaluation solutions | [solutions](https://github.com/erodola/Alg-s2-2020/raw/master/midterm/solutions.pdf) ; [video](https://youtu.be/EieNzgmqWwE) | 
 | | |
-Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video - to come] | [video - to come]
+Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video - to come] | [video - to come] ; [data - to come]
 | | |
