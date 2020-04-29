@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **22/04/2020:** The self-evaluation solutions are now available.
+- **29/04/2020:** The slides and videos for the April 30 lecture are now available.
 
 - **20/04/2020:** The **midterm self-evaluation test** is now available for download. Please send me your solutions by the end of the week. The solutions will be discussed on Thu 23 April, but you can still send me your solutions after that date.
 
@@ -68,5 +68,5 @@ Tue 21 Apr | **Midterm self-evaluation** | [test](https://github.com/erodola/Alg
 | | |
 Thu 23 Apr | Self-evaluation solutions | [solutions](https://github.com/erodola/Alg-s2-2020/raw/master/midterm/solutions.pdf) ; [video](https://youtu.be/EieNzgmqWwE) | 
 | | |
-Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video](https://www.youtube.com/watch?v=nsvDGVHKJq0) | [video - to come] ; [R15](http://cs.joensuu.fi/sipu/datasets/R15.txt) ; [spiral](http://cs.joensuu.fi/sipu/datasets/spiral.txt) ; [jain](http://cs.joensuu.fi/sipu/datasets/jain.txt) ; [more datasets](http://cs.joensuu.fi/sipu/datasets/)
+Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video](https://www.youtube.com/watch?v=nsvDGVHKJq0) | [video](https://www.youtube.com/watch?v=9IGa01BtZQQ) ; [R15](http://cs.joensuu.fi/sipu/datasets/R15.txt) ; [spiral](http://cs.joensuu.fi/sipu/datasets/spiral.txt) ; [jain](http://cs.joensuu.fi/sipu/datasets/jain.txt) ; [more datasets](http://cs.joensuu.fi/sipu/datasets/)
 | | |
