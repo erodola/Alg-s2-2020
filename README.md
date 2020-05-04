@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **29/04/2020:** The slides and videos for the April 30 lecture are now available.
+- **04/05/2020:** The slides and videos for the May 05 lecture are now available.
 
 - **20/04/2020:** The **midterm self-evaluation test** is now available for download. Please send me your solutions by the end of the week. The solutions will be discussed on Thu 23 April, but you can still send me your solutions after that date.
 
@@ -70,5 +70,5 @@ Thu 23 Apr | Self-evaluation solutions | [solutions](https://github.com/erodola/
 | | |
 Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video](https://www.youtube.com/watch?v=nsvDGVHKJq0) | [video](https://www.youtube.com/watch?v=9IGa01BtZQQ) ; [R15](http://cs.joensuu.fi/sipu/datasets/R15.txt) ; [spiral](http://cs.joensuu.fi/sipu/datasets/spiral.txt) ; [jain](http://cs.joensuu.fi/sipu/datasets/jain.txt) ; [more datasets](http://cs.joensuu.fi/sipu/datasets/)
 | | |
-Tue 05 May | Dimensionality reduction | [slides - to come] ; [video - to come] | 
+Tue 05 May | Dimensionality reduction | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/12_mdspca/12-mdspca.pdf) ; [video](https://www.youtube.com/watch?v=S93BJH-c4cw) | 
 | | |
