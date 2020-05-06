@@ -68,9 +68,9 @@ Tue 21 Apr | **Midterm self-evaluation** | [test](https://github.com/erodola/Alg
 | | |
 Thu 23 Apr | Self-evaluation solutions | [solutions](https://github.com/erodola/Alg-s2-2020/raw/master/midterm/solutions.pdf) ; [video](https://youtu.be/EieNzgmqWwE) | 
 | | |
-Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video](https://www.youtube.com/watch?v=nsvDGVHKJq0) | [video](https://www.youtube.com/watch?v=9IGa01BtZQQ) ; [R15](http://cs.joensuu.fi/sipu/datasets/R15.txt) ; [spiral](http://cs.joensuu.fi/sipu/datasets/spiral.txt) ; [jain](http://cs.joensuu.fi/sipu/datasets/jain.txt) ; [more datasets](http://cs.joensuu.fi/sipu/datasets/)
+Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video](https://www.youtube.com/watch?v=nsvDGVHKJq0) | [demo video](https://www.youtube.com/watch?v=9IGa01BtZQQ) ; [R15](http://cs.joensuu.fi/sipu/datasets/R15.txt) ; [spiral](http://cs.joensuu.fi/sipu/datasets/spiral.txt) ; [jain](http://cs.joensuu.fi/sipu/datasets/jain.txt) ; [more datasets](http://cs.joensuu.fi/sipu/datasets/)
 | | |
 Tue 05 May | Dimensionality reduction | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/12_mdspca/12-mdspca.pdf) ; [video](https://www.youtube.com/watch?v=S93BJH-c4cw) | 
 | | |
-Thu 07 May | Decision trees and random forests | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/13_decision/13-decision.pdf) ; [video](https://youtu.be/kSZcGSnppWg) | [video - to come]
+Thu 07 May | Decision trees and random forests | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/13_decision/13-decision.pdf) ; [video](https://youtu.be/kSZcGSnppWg) | [demo video](https://youtu.be/quUswhzScTU)
 | | |
