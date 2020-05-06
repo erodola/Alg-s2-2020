@@ -72,3 +72,5 @@ Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/ma
 | | |
 Tue 05 May | Dimensionality reduction | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/12_mdspca/12-mdspca.pdf) ; [video](https://www.youtube.com/watch?v=S93BJH-c4cw) | 
 | | |
+Thu 07 May | Decision trees and random forests | [slides - to come] ; [video - to come] | 
+| | |
