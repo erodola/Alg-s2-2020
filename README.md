@@ -76,3 +76,5 @@ Tue 05 May | Dimensionality reduction | [slides](https://github.com/erodola/Alg-
 | | |
 Thu 07 May | Decision trees and random forests | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/13_decision/13-decision.pdf) ; [video](https://youtu.be/kSZcGSnppWg) | [demo video](https://youtu.be/quUswhzScTU)
 | | |
+Tue 12 May | Deep learning | [slides - to come] ; [video - to come] | 
+| | |
