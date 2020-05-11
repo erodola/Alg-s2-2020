@@ -4,9 +4,9 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **QBQL2G5A**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
+- **11/05/2020:** The slides and video for the May 12 lecture are now available.
 
-- **04/05/2020:** The slides and videos for the May 05 lecture are now available.
+- **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **QBQL2G5A**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
 
 - **20/04/2020:** The **midterm self-evaluation test** is now available for download. Please send me your solutions by the end of the week. The solutions will be discussed on Thu 23 April, but you can still send me your solutions after that date.
 
@@ -76,5 +76,5 @@ Tue 05 May | Dimensionality reduction | [slides](https://github.com/erodola/Alg-
 | | |
 Thu 07 May | Decision trees and random forests | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/13_decision/13-decision.pdf) ; [video](https://youtu.be/kSZcGSnppWg) | [demo video](https://youtu.be/quUswhzScTU)
 | | |
-Tue 12 May | Deep learning | [slides - to come] ; [video - to come] | 
+Tue 12 May | Deep learning | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/14_gdl/14-gdl.pdf) ; [video - to come] | 
 | | |
