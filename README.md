@@ -78,5 +78,5 @@ Thu 07 May | Decision trees and random forests | [slides](https://github.com/ero
 | | |
 Tue 12 May | Deep learning | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/14_deep/14-deep.pdf) ; [video](https://youtu.be/3wZk8NSx_6o) | 
 | | |
-Thu 14 May | Deep learning | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/15_spectral/15-spectral.pdf) ; [video - to come] | 
+Thu 14 May | Spectral graph analysis | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/15_spectral/15-spectral.pdf) ; [video - to come] | [minnesota graph](https://github.com/erodola/Alg-s2-2020/raw/master/15_spectral/minnesota.zip)
 | | |
