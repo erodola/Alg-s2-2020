@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **11/05/2020:** The slides and video for the May 12 lecture are now available.
+- **13/05/2020:** The slides and video for the May 14 lecture are now available.
 
 - **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **QBQL2G5A**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
 
@@ -77,4 +77,6 @@ Tue 05 May | Dimensionality reduction | [slides](https://github.com/erodola/Alg-
 Thu 07 May | Decision trees and random forests | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/13_decision/13-decision.pdf) ; [video](https://youtu.be/kSZcGSnppWg) | [demo video](https://youtu.be/quUswhzScTU)
 | | |
 Tue 12 May | Deep learning | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/14_deep/14-deep.pdf) ; [video](https://youtu.be/3wZk8NSx_6o) | 
+| | |
+Thu 14 May | Deep learning | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/15_spectral/15-spectral.pdf) ; [video - to come] | 
 | | |
