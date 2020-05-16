@@ -4,11 +4,9 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **13/05/2020:** The slides and video for the May 14 lecture are now available.
+- **16/05/2020:** The next lecture will be on **Thu 21st May**.
 
 - **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **QBQL2G5A**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
-
-- **20/04/2020:** The **midterm self-evaluation test** is now available for download. Please send me your solutions by the end of the week. The solutions will be discussed on Thu 23 April, but you can still send me your solutions after that date.
 
 ### Logistics
 
@@ -79,4 +77,6 @@ Thu 07 May | Decision trees and random forests | [slides](https://github.com/ero
 Tue 12 May | Deep learning | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/14_deep/14-deep.pdf) ; [video](https://youtu.be/3wZk8NSx_6o) | 
 | | |
 Thu 14 May | Spectral graph analysis | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/15_spectral/15-spectral.pdf) ; [video](https://youtu.be/8-WvmfXh84c) | [minnesota graph](https://github.com/erodola/Alg-s2-2020/raw/master/15_spectral/minnesota.zip)
+| | |
+Thu 21 May |  |  | 
 | | |
