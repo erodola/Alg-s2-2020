@@ -78,5 +78,5 @@ Tue 12 May | Deep learning | [slides](https://github.com/erodola/Alg-s2-2020/raw
 | | |
 Thu 14 May | Spectral graph analysis | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/15_spectral/15-spectral.pdf) ; [video](https://youtu.be/8-WvmfXh84c) | [minnesota graph](https://github.com/erodola/Alg-s2-2020/raw/master/15_spectral/minnesota.zip)
 | | |
-Thu 21 May |  |  | 
+Thu 21 May | Local sequence alignment | [paper with notes](https://github.com/erodola/Alg-s2-2020/raw/master/paper/smith_waterman.pdf) ; [video - to come] | 
 | | |
