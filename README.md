@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **19/05/2020:** The slides and video for May 21 are now available.
+- **26/05/2020:** The video for May 26 is now available.
 
 - **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **QBQL2G5A**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
 
@@ -80,7 +80,7 @@ Thu 14 May | Spectral graph analysis | [slides](https://github.com/erodola/Alg-s
 | | |
 Thu 21 May | Local sequence alignment | [paper with notes](https://github.com/erodola/Alg-s2-2020/raw/master/paper/smith_waterman.pdf) ; [video](https://youtu.be/raK88iNqYNU) | 
 | | |
-Tue 26 May | Recap | [video - to come] | 
+Tue 26 May | Recap | [video](https://youtu.be/Rdv52BX8bRA) | 
 | | |
 
 **End**
