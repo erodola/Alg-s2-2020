@@ -80,3 +80,7 @@ Thu 14 May | Spectral graph analysis | [slides](https://github.com/erodola/Alg-s
 | | |
 Thu 21 May | Local sequence alignment | [paper with notes](https://github.com/erodola/Alg-s2-2020/raw/master/paper/smith_waterman.pdf) ; [video](https://youtu.be/raK88iNqYNU) | 
 | | |
+Tue 26 May | Recap | [video - to come] | 
+| | |
+
+**End**
