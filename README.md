@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics
 
 ### News
 
-- **26/05/2020:** The video for May 26 is now available.
+- **01/06/2020:** The exam format has been updated. Please see below in the **grading** section. Please **contact the Professor** for fixing date and time.
 
 - **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **QBQL2G5A**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
 
@@ -30,12 +30,11 @@ Specific material in the form of scientific articles and book chapters will be g
 
 ### Grading
 
-Mid-term + final written exams.
+Oral examination. 
 
-Optionally:
+The exam dates are in the week of **22-26 June**. Please register on infostud, and contact the Professor to fix a specific date and time.
 
-- Oral examination to improve/worsen your grade
-- Homework
+The exam will cover all the aspects seen during the lectures, including the homework. The homework is optional but contributes to the final grading. 
 
 ### Lectures
 
