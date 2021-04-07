@@ -65,7 +65,7 @@ Thu 16 Apr | Shortest paths | [slides](https://github.com/erodola/Alg-s2-2020/ra
 | | |
 Tue 21 Apr | **Midterm self-evaluation** | [test](https://github.com/erodola/Alg-s2-2020/raw/master/midterm/sheet.pdf) | 
 | | |
-Thu 23 Apr | Self-evaluation solutions | [solutions](https://github.com/erodola/Alg-s2-2020/raw/master/midterm/solutions.pdf) ; [video](https://youtu.be/EieNzgmqWwE) | 
+Thu 23 Apr | Self-evaluation solutions |  | 
 | | |
 Thu 30 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2020/raw/master/11_cluster/11-cluster.pdf) ; [video](https://www.youtube.com/watch?v=nsvDGVHKJq0) | [demo video](https://www.youtube.com/watch?v=9IGa01BtZQQ) ; [R15](http://cs.joensuu.fi/sipu/datasets/R15.txt) ; [spiral](http://cs.joensuu.fi/sipu/datasets/spiral.txt) ; [jain](http://cs.joensuu.fi/sipu/datasets/jain.txt) ; [more datasets](http://cs.joensuu.fi/sipu/datasets/)
 | | |
